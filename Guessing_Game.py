@@ -1,3 +1,6 @@
+#Christina Cisneros
+#CIS 261
+#WK2Lab1 - Guessing Game 
 import random
 
 def display_title():
